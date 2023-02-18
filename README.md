@@ -1,4 +1,4 @@
-THis is a simple wrapper around [pntr](https://github.com/robloach/pntr), for nim.
+This is a simple wrapper around [pntr](https://github.com/robloach/pntr), for nim.
 
 I am pretty new to nim, so I am not sure how to properly package it for nimble, but you can get strated liek this:
 
