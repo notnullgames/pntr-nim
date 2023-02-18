@@ -1,4 +1,4 @@
-{.passL: "pntr.a".}
+{.compile: "pntr.c".}
 
 const PNTR_MAX_FONTS* = 256
 

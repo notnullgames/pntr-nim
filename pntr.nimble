@@ -11,7 +11,3 @@ bin           = @["demo"]
 # Dependencies
 
 requires "nim >= 1.6.10"
-
-task pntr, "Build static C lib":
-  exec("gcc -c src/pntr.c")
-  exec("ar rvs pntr.a pntr.o")

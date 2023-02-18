@@ -7,9 +7,6 @@ I am pretty new to nim, so I am not sure how to properly package it for nimble, 
 git clone --recursive https://github.com/notnullgames/pntr-nim.git
 cd pntr-nim
 
-# build static library (required)
-nimble pntr
-
 # build demo
 nimble build
 
