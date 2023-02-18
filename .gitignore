@@ -1,0 +1,6 @@
+.DS_Store
+demo
+demo.exe
+demo.png
+*.a
+*.o
