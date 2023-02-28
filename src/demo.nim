@@ -2,4 +2,4 @@ import pntr
 
 var canvas = new_image(80, 80)
 draw_circle(canvas, 40, 40, 30, RED)
-save_image(canvas, "demo.png")
+discard save_image(canvas, "demo.png")
